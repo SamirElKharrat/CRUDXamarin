@@ -1,2 +1,15 @@
 C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.csproj.AssemblyReference.cache
 C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\bin\Debug\netstandard2.0\CRUDXamarin.deps.json
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\bin\Debug\netstandard2.0\CRUDXamarin.dll
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\bin\Debug\netstandard2.0\CRUDXamarin.pdb
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.dll
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\refint\CRUDXamarin.dll
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\CRUDXamarin.pdb
+C:\Users\Usuario\Documents\GitHub\CRUDXamarin\CRUDXamarin\obj\Debug\netstandard2.0\ref\CRUDXamarin.dll

@@ -28,5 +28,15 @@ namespace CRUDXamarin.Data
                 return null;
             }
         }
+
+        public Task<List<Alumno>> MostrarAlumnosAsync()
+        {
+            return con.Table<Alumno>().ToListAsync();
+        }
+
+        public Task<Alumno> MostarAlumnoPorId(int idAlumno)
+        {
+            return con.Table<Alumno>().Where(a => a.IdAlumno == idAlumno).FirstOrDefaultAsync(); 
+        }
     }
 }
