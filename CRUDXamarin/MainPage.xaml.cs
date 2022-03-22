@@ -14,5 +14,27 @@ namespace CRUDXamarin
         {
             InitializeComponent();
         }
+
+        public async void btnRegistrar(object sender, EventArgs e)
+        {
+            if (true)
+            {
+
+            }
+            else
+            {
+                await DisplayAlert("Error", "Ingresar todos los datos", "OK");
+            }
+        }
+
+        public bool validarDatos()
+        {
+            bool respuesta;
+            if (string.IsNullOrEmpty(txtNombre.Text()))
+            {
+
+            }
+            return respuesta;
+        }
     }
 }

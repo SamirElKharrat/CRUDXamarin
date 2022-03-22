@@ -17,7 +17,7 @@ namespace CRUDXamarin.Data
             con.CreateTableAsync<Alumno>().Wait();
         }
 
-        public Task <int> SaveAlumnoAsync(Alumno alum)
+        public Task <int> GuardarAlumnoAsync(Alumno alum)
         {
             if (alum.IdAlumno == 0)
             {

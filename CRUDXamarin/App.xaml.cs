@@ -18,8 +18,8 @@ namespace CRUDXamarin
 
         public static SQLiteHelper SQLiteDB
         {
-            get 
-            { 
+            get
+            {
                 if (db == null)
                 {
                     db = new SQLiteHelper(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Alumno.db3"));
